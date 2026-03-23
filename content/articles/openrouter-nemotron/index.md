@@ -56,7 +56,7 @@ I'm not too worried about it as I plan to use it for scraping and other tasks th
 
 I was trying out the Nemotron API on Claude Code by typing out random messages just to test its capabilities, before I hit this message.
 
-![[digital-brain/Tasks/articles/FIP/idea/Claude Code/OpenRouter Nemotron/attachments/Pasted image 20260318135447.png]]
+![[digital-brain/Tasks/articles/FIP/idea/Claude Code/OpenRouter Key for Codex/attachments/Pasted image 20260318135447.png]]
 
 I knew that it was not possible for Nemotron to give me unlimited inference, but it hit the 50-request limit a day very quickly after I asked it to generate a YouTube transcript.
 
@@ -75,7 +75,8 @@ I don't think that 50 requests would be sufficient for the tasks that I want, so
 
 The fees are expensive at 5% per every top-up that you make, and I had to pay $10.50 in total.
 
-![[digital-brain/Tasks/articles/FIP/idea/Claude Code/OpenRouter Nemotron/attachments/Pasted image 20260318135614.png]]
+![[digital-brain/Tasks/articles/FIP/idea/Claude Code/OpenRouter Key for Codex/attachments/Pasted image 20260318135614.png]]
+
 
 It's even worse for non-crypto payments with a 5.5% fee (minimum of $0.80), so I stuck with crypto payments via Coinbase Commerce instead.
 
