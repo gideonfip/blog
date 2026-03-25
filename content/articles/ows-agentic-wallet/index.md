@@ -168,7 +168,7 @@ I have many plans on how to trade or implement DeFi strategies with my agent:
 - A bot to find the best (and relatively safe) DeFi yields
 - A trading bot on both perps and normal onchain swaps
 
-I've made a horrible error by giving my agent too much autonomy at the start, and it made a $400+ trade for me when I just wanted it to use $20 per trade.
+I've made a horrible error by giving my agent too much autonomy at the start, and it made a \$400+ trade for me when I just wanted it to use \$20 per trade.
 
 https://x.com/gideonfip/status/2036517919501459894
 
