@@ -31,7 +31,7 @@ Many developers are using it for their OpenClaw agents, and I wanted to know how
 
 Both agents allow me to add other API keys apart from my main one (I'm using GLM), so I have the flexibility of switching between model providers and APIs.
 
-![](Pasted image 20260323155555.png)
+![](Pasted-image-20260323155555.png)
 
 All you needed was to generate your OpenRouter API key, add it to OpenClaw or Hermes, and you could start getting free inference.
 
@@ -46,7 +46,7 @@ Of course, there always has to be a catch with these free models. OpenRouter has
 
 The Nemotron model page has this warning that all of your requests will be logged, which is likely why Nvidia is giving us free inference.
 
-![](Pasted image 20260323160535.png)
+![](Pasted-image-20260323160535.png)
 
 I'm not too worried about it as I plan to use it for scraping and other tasks that won't involve sensitive data, but that's something you may want to consider when using this model.
 
@@ -56,7 +56,7 @@ I'm not too worried about it as I plan to use it for scraping and other tasks th
 
 I was trying out the Nemotron API on Claude Code by typing out random messages just to test its capabilities, before I hit this message.
 
-![](Pasted image 20260318135447.png)
+![](Pasted-image-20260318135447.png)
 
 I knew that it was not possible for Nemotron to give me unlimited inference, but it hit the 50-request limit a day very quickly after I asked it to generate a YouTube transcript.
 
@@ -75,7 +75,7 @@ I don't think that 50 requests would be sufficient for the tasks that I want, so
 
 The fees are expensive at 5% per every top-up that you make, and I had to pay $10.50 in total.
 
-![](Pasted image 20260318135614.png)
+![](Pasted-image-20260318135614.png)
 
 
 It's even worse for non-crypto payments with a 5.5% fee (minimum of $0.80), so I stuck with crypto payments via Coinbase Commerce instead.
@@ -93,7 +93,7 @@ My current agents would still use the main models that I pay for (GLM-4.7, MiniM
 
 Here's a chat I had with my agent on GLM-4.7 to crawl a site, and it spawned subagents to perform this task.
 
-![](Pasted image 20260323155848.png)
+![](Pasted-image-20260323155848.png)
 
 *You'll need to specify this as part of the skill that you create to run this certain task, and let me know if you have any questions on how to do this.*
 
@@ -105,7 +105,7 @@ While I'll use Claude Code (with GLM-4.7) for my main work inside of VS Code, I'
 
 Something to note is how OpenRouter may route your requests to other models, like Gemini 3 Flash Preview, in my case.
 
-![](Pasted image 20260323164708.png)
+![](Pasted-image-20260323164708.png)
 
 *I've burned over $1.37 over the past few days, even though I instructed it specifically to use Nemotron.*
 
