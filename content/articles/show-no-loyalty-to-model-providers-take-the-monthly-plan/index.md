@@ -120,7 +120,7 @@ The key characteristic of this system is adaptability. I'm only locked into a pl
 
 My data, my context, and my skills are all fully owned by me. And because I build highly specific workflows (Skills) through iteration, I can get almost any model to execute the same workflow with similar results.
 
-Inside this system, there are XXX key components required for it to run successfully:
+Inside this system, there are 5 key components required for it to run successfully:
 
 - A file system that includes my context and Skills (in the `.agents` or `.claude` folder), all in the `.md` format
 - A monthly LLM coding plan or API (this will change frequently)
