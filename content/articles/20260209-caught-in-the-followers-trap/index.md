@@ -4,6 +4,7 @@ type: article
 brand: FIP
 stage: writing
 category: Community_and_Engagement
+date: 2026-02-07
 created_date: 2026-02-07
 outlining_started: 2026-02-09
 writing_started: 2026-02-09

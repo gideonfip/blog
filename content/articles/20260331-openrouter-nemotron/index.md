@@ -1,4 +1,7 @@
+---
+date: 2026-03-31
 # You're wasting tokens on boring tasks, here's how to do it for cheap (or even free)
+---
 
 
 # This one routing change made my OpenClaw and Hermes agents far cheaper to run

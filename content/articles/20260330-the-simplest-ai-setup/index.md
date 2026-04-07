@@ -5,6 +5,7 @@ stage: done
 completed_date: 2026-03-30
 outlining_started: 2026-03-30
 writing_started: 2026-03-30
+date: 2026-03-30
 created: 2026-03-30
 category: AI_and_Content
 content_type: guides

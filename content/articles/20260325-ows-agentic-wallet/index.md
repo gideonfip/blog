@@ -1,5 +1,8 @@
 
+---
+date: 2026-03-25
 # I finally found a wallet to give to my agent
+---
 
 # I tested every agentic wallet option, only one actually worked (with a catch)
 
