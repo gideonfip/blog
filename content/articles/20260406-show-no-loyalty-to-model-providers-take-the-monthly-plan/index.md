@@ -6,7 +6,7 @@ completed_date: 2026-04-06
 outlining_started: 2026-04-02
 writing_started: 2026-04-02
 date: 2026-04-06
-created: 2026-03-28
+created: 2026-04-06
 category: Strategy_and_Frameworks
 tags: []
 related_articles: []
