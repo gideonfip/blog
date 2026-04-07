@@ -1,5 +1,5 @@
 ---
-title: the simplest ai setup
+title: "20260330 - the simplest ai setup"
 account: fipcrypto
 stage: done
 completed_date: 2026-03-30

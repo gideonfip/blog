@@ -1,5 +1,5 @@
 ---
-title: I deployed a Hermes agent on Hetzner, here's how you can too
+title: "20260319 - I deployed a Hermes agent on Hetzner, here's how you can too"
 date: 2026-03-19
 status: writing
 brand: FIP

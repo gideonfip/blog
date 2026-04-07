@@ -1,5 +1,5 @@
 ---
-title: show no loyalty to model providers Take the monthly plan
+title: "20260406 - show no loyalty to model providers Take the monthly plan"
 account: fipcrypto
 stage: done
 completed_date: 2026-04-06

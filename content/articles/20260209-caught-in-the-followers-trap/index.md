@@ -1,5 +1,5 @@
 ---
-title: "Caught in the Trap of Followers"
+title: "20260209 - Caught in the Trap of Followers"
 type: article
 brand: FIP
 stage: writing
