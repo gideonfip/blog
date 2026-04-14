@@ -1,11 +1,11 @@
 ---
-date: 2025-04-13
+date: 2026-04-14
 title: what no one tells you about OpenRouter's free tier
 account: FIP
 stage: done
 completed_date: 2026-04-14
 writing_started: 2026-04-14
-created: 2025-04-13
+created: 2026-04-14
 category: AI_and_Content
 tags: []
 related_articles:
