@@ -156,7 +156,7 @@ Some are ones that I built, others I've downloaded or adapted from skill reposit
 - Syncing between my lead magnets and email platform
 - Generating colour palettes for different sites and my own brand
 - Adding YouTube transcripts and summaries into my knowledge base
-- Converting different files into markdown for easy reading by AI
+- Converting different files to markdown for easy reading by AI
 - Full workflows that keep track of all of my articles and YouTube video scripts
 
 These are just some of my examples, but there are many others that you can add to your own workflows.
@@ -228,7 +228,7 @@ Here's a recent example of mine when building out a Skill:
 
 ---
 
-- Integrate the stack
+- **Integrate the stack**
 
 After telling AI what the problem is, and if you give enough details to it, the AI should come up with a comprehensive plan on how to automate that workflow for you.
 
@@ -244,7 +244,7 @@ Depending on what platform you use, the LLM will recommend a way to connect with
 
 ---
 
-- Guide the LLM
+- **Guide the LLM**
 
 I saw a recent Reddit post that complained about how confused an intern was when executing tasks that the OP instructed him to do.
 
@@ -268,7 +268,7 @@ It will never be perfect during the first pass, and the only way to build the Sk
 
 ---
 
-- Nail the standard
+- **Nail the standard**
 
 I can guarantee that the AI will make mistakes when running through the workflow.
 
@@ -286,7 +286,7 @@ It's finally time to turn it into a Skill.
 
 ---
 
-- Automate the logic
+- **Automate the logic**
 
 This is probably the easiest step, after getting the output that you want.
 
@@ -316,7 +316,7 @@ But that's not the end of the entire Skill creation process:
 
 ---
 
-- Loop recursively
+- **Loop recursively**
 
 Whenever we run a Skill, there's likely a new problem or output expectation that we have.
 
@@ -359,33 +359,3 @@ No coding experience is required, and I'll show you how to build your system you
 The session will be live on 30 April and includes the full recording if you can't make it:
 
 I WANT IN
-
----
-
-## Build Your First Skill in 90 Minutes
-
-I've taken everything in this article — the 8 components, the SIGNAL framework, and my approach to building Skills — and turned it into a live session.
-
-**It's called Signal Starter.**
-
-In 90 minutes, you'll:
-
-1. **Identify one painful workflow** you actually want to automate (not what someone else tells you to)
-2. **Build the Portable AI System** from scratch with the 8 components
-3. **Turn that task into a working Skill** you can invoke anytime
-
-No coding experience needed. No expensive subscriptions required. You just need to be willing to build.
-
-**The session runs live** and includes the full recording if you can't make it.
-
----
-
-### Ready to stop prompting and start building?
-
-→ **[Join the next Signal Starter session](https://start.gideonfip.com)**
-
-Session is $49. If you don't walk away with a working Skill, I'll roll you over to the next session at zero cost.
-
----
-
-*Questions? DM me on X — @gideonfip*
