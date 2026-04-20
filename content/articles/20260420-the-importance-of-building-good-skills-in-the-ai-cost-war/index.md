@@ -66,7 +66,7 @@ And those who use AI as a simple chatbot without building anything repeatable wi
 
 ---
 
-## Most people focus are too focused on the models
+## Most people are too focused on the models
 
 Every now and then, a new model will launch with all the hype and engagement farming on the timeline, just like [Opus 4.7](https://youtu.be/iDx_LWPoAt8).
 
