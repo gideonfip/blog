@@ -344,7 +344,7 @@ The more expensive models may produce better outputs, but for other workflows th
 
 So it's possible to use a cheap model like GLM 4.7-Flash, and you'd still get the same results.
 
-To start building out your own Skills, I've included both my SIGNAL Skill framework and the skill-creator Skill inside this folder.
+To start building out your own Skills, I've included both my SIGNAL Skill framework and the skill-creator Skill inside this [repo](https://skills.gideonfip.com/).
 
 If you want more guidance on building out your own Portable AI System, Signal Starter is a live session where I'll be going through the entire process step by step.
 
